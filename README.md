@@ -2,7 +2,7 @@
 
 **English** | [Русский](README.ru.md)
 
-RAG assistants, semantic search and LLM evaluation. For businesses: assistants over company documents, support bots and search — services and prices on my website (coming soon), meanwhile [Telegram](https://t.me/makltd1).
+RAG assistants, semantic search and LLM evaluation. For businesses: assistants over company documents, support bots and search — services and prices on my website (coming soon), meanwhile [Telegram](https://t.me/makltd2).
 
 ## How I work
 
@@ -42,4 +42,4 @@ Python · PyTorch · transformers · sentence-transformers · LoRA · FastAPI ·
 
 ## Contacts
 
-Telegram [@makltd1](https://t.me/makltd1) · Email makltd123@mail.ru
+Telegram [@makltd2](https://t.me/makltd2) · Email makltd123@mail.ru

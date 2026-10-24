@@ -2,7 +2,7 @@
 
 [English](README.md) | **Русский**
 
-RAG-ассистенты, поиск по смыслу и оценка качества LLM. Для бизнеса: ассистенты по документам компании, боты поддержки и поиск — услуги и цены на сайте (скоро), а пока [Telegram](https://t.me/makltd1).
+RAG-ассистенты, поиск по смыслу и оценка качества LLM. Для бизнеса: ассистенты по документам компании, боты поддержки и поиск — услуги и цены на сайте (скоро), а пока [Telegram](https://t.me/makltd2).
 
 ## Как я работаю
 
@@ -42,4 +42,4 @@ Python · PyTorch · transformers · sentence-transformers · LoRA · FastAPI ·
 
 ## Контакты
 
-Telegram [@makltd1](https://t.me/makltd1) · Почта makltd123@mail.ru
+Telegram [@makltd2](https://t.me/makltd2) · Почта makltd123@mail.ru
