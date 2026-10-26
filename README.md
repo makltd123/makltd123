@@ -2,7 +2,7 @@
 
 **English** | [Русский](README.ru.md)
 
-RAG assistants, semantic search and LLM evaluation. For businesses: assistants over company documents, support bots and search — services and prices on my website (coming soon), meanwhile [Telegram](https://t.me/makltd2).
+RAG assistants, semantic search and LLM evaluation. For businesses: assistants over company documents, support bots and search — services and prices on [my website](https://fedor.alqira.ru), or write on [Telegram](https://t.me/makltd2).
 
 ## How I work
 
